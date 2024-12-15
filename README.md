@@ -1,5 +1,5 @@
 # psip_yulu
-Challenge puzzle for Yulu Bikes PSIP
+Challenge puzzle for Yulu PSIP
 
 Task Management API
 
