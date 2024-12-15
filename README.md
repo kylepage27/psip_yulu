@@ -71,3 +71,5 @@ If you encounter issues, ensure the following:
 1. Java and Maven are correctly installed.
 2. The required dependencies are downloaded (mvn clean install should succeed).
 3. The application runs without port conflicts (8080 is available).
+
+The project files can be found under the yulu/yulu/src/main/java/com/psip/yulu path in this GitHub repository.
